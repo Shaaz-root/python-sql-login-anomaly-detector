@@ -1,0 +1,9 @@
+venv/
+venv_backup/
+
+__pycache__/
+*.py[cod]
+
+data/*.db
+
+.env
